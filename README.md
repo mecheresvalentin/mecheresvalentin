@@ -9,7 +9,7 @@ I am from Romania, and I love to create beautiful web interfaces.
 
 :mailbox: Reach me out!
 
-[![Mail Badge](https://img.shields.io/badge/-youtube-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCyeontfyrnckKXnmp_VYn7A) [![Linkedin Badge](https://img.shields.io/badge/-linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-valentin-794b051a9/) [![Mail Badge](https://img.shields.io/badge/-@louis404__-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/sk3r0r) [![Mail Badge](https://img.shields.io/badge/-gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:gabriel.v.mecheres@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-youtube-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCyeontfyrnckKXnmp_VYn7A) [![Linkedin Badge](https://img.shields.io/badge/-linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-valentin-794b051a9/) [![Mail Badge](https://img.shields.io/badge/-@sk3r0r-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/sk3r0r) [![Mail Badge](https://img.shields.io/badge/-gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:gabriel.v.mecheres@gmail.com)
 
 ### Languages & Tools
 
