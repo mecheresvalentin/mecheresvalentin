@@ -4,8 +4,8 @@
 
 My name is Gabriel.
 I am from Romania, and I love to create beautiful web interfaces.
-I opened a project through which I help people in need with donations by creating websites
-You can see more about on my website https://www.gabrielvalentin.com/
+I opened a project through which I help people in need with donations by creating websites.
+Website under construction 🏗
 
 ![views](https://komarev.com/ghpvc/?username=mecheresvalentin&label=Profile%20views&color=ffa500&style=flat)
 
