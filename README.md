@@ -1,18 +1,65 @@
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=mecheresvalentin&count_private=true&theme=tokyonight&hide=contribs,prs)
+<div align="center">
 
-### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mecheresvalentin&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=f0f6fc&text_color=f0f6fc&hide=stars)
 
-My name is Gabriel.
-I am from Romania, and I love to create beautiful web interfaces.
-I opened a project through which I help people in need with donations by creating websites.
-Website under construction 🏗
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mecheresvalentin&theme=radical&hide_border=true&bg_color=0d1117&layout=compact&langs_count=8&hide=css"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mecheresvalentin&theme=default&hide_border=true&layout=compact&langs_count=8&hide=css"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mecheresvalentin&theme=default&hide_border=true&layout=compact&langs_count=8&hide=css" height="30%" alt="languages"/>
+</picture>
 
-![views](https://komarev.com/ghpvc/?username=mecheresvalentin&label=Profile%20views&color=ffa500&style=flat)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mecheresvalentin&theme=react-dark&hide_border=true)
 
-:mailbox: Reach me out!
+</div>
 
-[![Mail Badge](https://img.shields.io/badge/-youtube-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCyeontfyrnckKXnmp_VYn7A) [![Linkedin Badge](https://img.shields.io/badge/-linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-valentin-794b051a9/) [![Mail Badge](https://img.shields.io/badge/-@sk3r0r-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/sk3r0r) [![Mail Badge](https://img.shields.io/badge/-gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:gabriel.v.mecheres@gmail.com)
+# 👋 Salut! Sunt Gabriel
 
-### Languages & Tools
+CEO DRVNSocial : https://drvnsocial.com
 
-![expressjs](static/expressjs.svg) ![heroku](static/heroku.svg) ![illustrator](static/illustrator.svg) ![javascript](static/javascript.svg) ![nodejs](static/nodejs.svg) ![photoshop](static/photshop.svg) ![postman](static/postman.svg) ![vuejs](static/vuejs.svg) ![sass](static/sass.svg) ![vscode](static/vscode.svg) ![xd](static/xd.svg)
+🇷🇴 **Full-Stack Developer** din România | **🎨 UI/UX Designer** | **🚀 Web3 Enthusiast**
+
+**Transformez ideile în experiențe digitale uimitoare** prin design modern și cod performant. Construiesc platforme care inspiră și conectează comunități.
+
+## 🌟 Ce fac în prezent
+- 🏗️ Dezvolt **platforme de donații** pentru cauze sociale
+- ⚡ Creez **interfețe web responsive** cu Vue.js & Node.js
+- 🎨 **Design UI/UX** în Adobe XD & Photoshop
+- 📱 **Optimizare performanță** și SEO
+
+<div align="center">
+  
+![Views](https://komarev.com/ghpvc/?username=mecheresvalentin&label=Profile%20Views&color=0e75b6&style=flat&style=for-the-badge)
+
+## 🛠️ Tech Stack
+
+![Frontend](https://img.shields.io/badge/Vue.js-4F46E5?style=for-the-badge&logo=vue.js&logoColor=white)
+![Backend](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Styling](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![API](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Design](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
+
+</div>
+
+## 📫 Hai să lucrăm împreună!
+📧 **gabriel.v.mecheres@gmail.com**
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/gabriel-valentin-794b051a9/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCyeontfyrnckKXnmp_VYn7A">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://instagram.com/gabriel.22mgv">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:gabriel.v.mecheres@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mecheresvalentin&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</div>
