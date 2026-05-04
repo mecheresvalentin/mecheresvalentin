@@ -1,6 +1,6 @@
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mecheresvalentin&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=f0f6fc&text_color=f0f6fc&hide=stars)
+![Gabriel's Stats](https://github-readme-stats.vercel.app/api?username=mecheresvalentin&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=f0f6fc&text_color=f0f6fc&hide=stars)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mecheresvalentin&theme=radical&hide_border=true&bg_color=0d1117&layout=compact&langs_count=8&hide=css"/>
