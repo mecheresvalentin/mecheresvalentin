@@ -12,19 +12,17 @@
 
 </div>
 
-# 👋 Salut! Sunt Gabriel
+# 👋 Hi there, i'm Valentin Gabriel!
 
-CEO DRVNSocial : https://drvnsocial.com
+🇷🇴 **Gabriel** | CEO DRVNSocial https://drvnsocial.com | **Full-Stack Developer** from Romania | **🎨 UI/UX Designer** | **🚀 Web3 Enthusiast**
 
-🇷🇴 **Full-Stack Developer** din România | **🎨 UI/UX Designer** | **🚀 Web3 Enthusiast**
+**Turning ideas into stunning digital experiences** with modern design and performant code. Building platforms that inspire and connect communities.
 
-**Transformez ideile în experiențe digitale uimitoare** prin design modern și cod performant. Construiesc platforme care inspiră și conectează comunități.
-
-## 🌟 Ce fac în prezent
-- 🏗️ Dezvolt **platforme de donații** pentru cauze sociale
-- ⚡ Creez **interfețe web responsive** cu Vue.js & Node.js
-- 🎨 **Design UI/UX** în Adobe XD & Photoshop
-- 📱 **Optimizare performanță** și SEO
+## 🌟 What I'm working on
+- 🏗️ Developing **donation platforms** for social causes
+- ⚡ Creating **responsive web interfaces** with Vue.js & Node.js
+- 🎨 **UI/UX Design** using Adobe XD & Photoshop
+- 📱 **Performance optimization** & SEO
 
 <div align="center">
   
@@ -40,7 +38,7 @@ CEO DRVNSocial : https://drvnsocial.com
 
 </div>
 
-## 📫 Hai să lucrăm împreună!
+## 📫 Let's connect!
 📧 **gabriel.v.mecheres@gmail.com**
 
 <div align="center">
@@ -50,7 +48,7 @@ CEO DRVNSocial : https://drvnsocial.com
   <a href="https://www.youtube.com/channel/UCyeontfyrnckKXnmp_VYn7A">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-  <a href="https://instagram.com/gabriel.22mgv">
+  <a href="https://instagram.com/sk3r0r">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:gabriel.v.mecheres@gmail.com">
